@@ -19,7 +19,19 @@ UI/UX Tools: Figma (for design prototyping), Google UI/UX principles applied
 
 Design Approach: Mobile-first, accessibility-focused, and following common front-end design patterns
 
-DEPLOYED AT :- https://safety-ai-dashboard.netlify.app/
+--------------------------------------X------------------------------------------
+
+Built efficient, reusable, and visually appealing web application components.
+
+Applied JavaScript/TypeScript fundamentals with clean, modular code.
+
+Designed and implemented user-friendly, compelling consumer experiences.
+
+Ensured scalability and performance through optimized rendering and event handling.
+
+Collaborated with backend APIs for seamless data integration.
+
+**DEPLOYED AT :- https://safety-ai-dashboard.netlify.app/**
 
 
-```
+
